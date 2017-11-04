@@ -1,5 +1,13 @@
 {
     "jour" : "2017-11-04",
+    "signes" : {
+        "lion" : {
+            "id" : "",
+            "url" : "",
+            "planete" : "",
+            "element" : ""
+        }
+    },
     "previsions" : {
         "lion" : {
             "txt1" : "Première ligne",
@@ -8,94 +16,6 @@
             "portechance" : "un objet gris",
             "allie" : "scorpion",
             "obstacle" : "gémeaux"
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
-        },
-        "" : {
-            "txt1" : "",
-            "txt2" : "",
-            "chiffrejour" : "",
-            "portechance" : "",
-            "allie" : "",
-            "obstacle" : ""
         }
     }
 }

@@ -29,7 +29,7 @@ INSERT INTO signes (signe, url, planete, element) VALUES (
     "Feu"
 ) ;
 
-INSERT INTO signes (signe, url, planete, element,) VALUES (
+INSERT INTO signes (signe, url, planete, element) VALUES (
     "Taureau",
     "taurus",
     "Vénus",
@@ -89,13 +89,25 @@ INSERT INTO signes (signe, url, planete, element) VALUES (
 /*Phrases de test*/
 
 INSERT INTO messages (domaine, positivite, phrase) VALUES (
-    "",
-    ,
-    ""
+    "Pro",
+    1,
+    "si vous cherchez du boulot, continuez, ça finira par payer. Si vous en avez déjà un... Cherchez-en un autre."
 ) ;
 
+INSERT INTO messages (domaine, positivite, phrase) VALUES (
+    "Social",
+    3,
+    "votre astre en 3ème décan annonce des relations chaleureuses avec les personnes issues du 2nd cadastre."
+) ;
+
+INSERT INTO messages (domaine, positivite, phrase) VALUES (
+    "Budget",
+    2,
+    "organiser des réunions tupperware ne serait pas une mauvaise idée."
+) ;
 /*
-domaine : [pro, social, santé, budget, humeur]
+domaine : [Pro, Social, Santé, Budget, Humeur]
+positivite : de 0 à 5 inclus
 
 INSERT INTO messages (domaine, positivite, phrase) VALUES (
     "",
